@@ -1,0 +1,10 @@
+{
+  "name": "jqueryui-touch-punch",
+  "repository": "factorial-io/jquery-ui-touch-punch",
+  "version": "0.2.3",
+  "scripts": ["jquery.ui.touch-punch.min.js"],
+  "dependencies": {
+    "components/jquery": "*",
+    "components/jqueryui": "*"
+  }
+}
